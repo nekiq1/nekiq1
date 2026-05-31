@@ -1,45 +1,62 @@
 # 👋 Привет, я Nekruz
 
-Я — fullstack разработчик, специализируюсь на создании масштабируемых веб-приложений. Люблю сочетать Python, TypeScript и современные frontend-стек, чтобы строить надежные и удобные системы.
+Я — backend / fullstack разработчик, специализируюсь на создании веб-приложений и API.  
+Люблю Python, автоматизацию и разработку реальных проектов.
+
+---
 
 ## 🧬 Обо мне
 
-- Возраст: 19 лет
-- Локация: Санкт-Петербург, Россия
-- Стремлюсь к созданию эффективных backend-систем и кросс-платформенных решений.
-- Интересуюсь системным дизайном, API и автоматизацией.
+- 👤 Имя: Nekruz  
+- 🎂 Возраст: 19  
+- 📍 Локация: Saint Petersburg, Russia  
+- 💻 Направление: Backend Developer  
+- 🚀 Цель: стать сильным backend/fullstack разработчиком  
 
-## 🛠 Технологический стек
+---
+
+## 🛠 Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-## 📈 Текущие проекты
+---
 
-- **API для бронирования туров**: Backend на FastAPI, интеграция с Stripe для платежей, PostgreSQL база данных.
-- **Личный блог на React**: Frontend с TypeScript, серверный API на Django.
-- **Доска задач (Kanban)**: Полноценное SPA с React + Node.js + MongoDB.
+## 📚 Сейчас изучаю
 
-## 📊 Статистика GitHub
+- Go (Golang)
+- System Design
+- Архитектура backend систем
+- Масштабируемые API
 
-![GitHub Stats]!(https://github-readme-stats.vercel.app/api?username=nekiq1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+---
 
 ## 🎯 Цели
 
-- Стать уверенным fullstack-инженером.
-- Создавать проекты, решающие реальные задачи бизнеса.
-- Углубиться в микросервисную архитектуру.
-- Работать над масштабируемыми системами.
+- Стать сильным backend разработчиком  
+- Делать реальные коммерческие проекты  
+- Работать с международными сервисами  
+- Развивать архитектурное мышление  
+
+---
+
+## 📊 GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nekiq1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nekiq1&layout=compact&theme=tokyonight)
+
+---
 
 ## 📫 Контакты
 
 - Telegram: @nekiq1
+ 
 
 ---
+
